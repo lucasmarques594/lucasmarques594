@@ -6,8 +6,6 @@
 </div>
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=61DAFB¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Marques!+%F0%9F%91%8B;Desenvolvedor+Web+Full-Stack;Sempre+aprendendo+e+codando...;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
-</div>
 
 <br>
 
@@ -62,7 +60,3 @@
 </p>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-contribution-grid-snake.vercel.app/api?user=lucasmarques594&theme=dark" alt="Snake animation">
-</div>
