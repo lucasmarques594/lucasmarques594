@@ -1,68 +1,91 @@
-<div align="center"> 
+<div align="center">
 
-<br>
+# Lucas Marques
 
-### 👨‍💻 Sobre mim
+**Desenvolvedor Full-Stack | Curitiba, PR**
 
-<p align="left">
-  💡 Tenho 23 anos e sou um entusiasta da programação morando na bela <strong>Curitiba - PR</strong>.<br>
-  🚀 Atualmente focado no desenvolvimento <strong>Web Full-Stack</strong>, criando aplicações modernas e eficientes.<br>
-  🌱 Estou sempre em busca de aprendizado, explorando novas tecnologias e aprimorando minhas habilidades.<br>
-  📫 Sinta-se à vontade para explorar meus projetos. O objetivo é contribuir e aprender com a comunidade!
-</p>
+</div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Sobre mim
+
+Desenvolvedor Full-Stack com experiência em aplicações web modernas, sistemas SaaS e soluções de infraestrutura.
+
+Focado em arquitetura limpa, Domain-Driven Design e soluções escaláveis com deploy containerizado.
+
+---
+
+### Stack Principal
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  </a>
+  <a href="https://bun.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+</p>
+
+### Banco de Dados & ORM
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  </a>
+  <a href="https://orm.drizzle.team/" target="_blank">
+    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle">
+  </a>
+</p>
+
+### Infraestrutura & DevOps
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://nginx.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   </a>
 </p>
 
 ---
 
-### 🔗 Conecte-se comigo
+### Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/lucasmarques594" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:lucasmarques594@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/shinemotx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
-
 ---
-<br/>
 
 <div align="center">
-  <a href="https://github.com/lucasmarques594">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmarques594&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques594&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucasmarques594&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques594&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
