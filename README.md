@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Marques (Shine)
+# Lucas Marques
 
 **Desenvolvedor Full-Stack | Curitiba, PR**
 
@@ -105,11 +105,3 @@ Focado em arquitetura limpa, Domain-Driven Design e soluções escaláveis com d
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
----
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lucasmarques594&theme=dracula&hide_border=true)
-
-</div>
