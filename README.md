@@ -98,7 +98,7 @@ Focado em arquitetura limpa, Domain-Driven Design e soluções escaláveis com d
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasmarques594&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=lucasmarques594&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 ---
