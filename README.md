@@ -111,15 +111,7 @@ Focado em **arquitetura limpa**, **Domain-Driven Design** e soluções escaláve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucasmarques594&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000&title_color=B00020&icon_color=B00020&text_color=E6E6E6" alt="GitHub Stats" />
-
-<br />
-
 <img src="https://streak-stats.demolab.com?user=lucasmarques594&theme=dark-aura&hide_border=true&border_radius=2&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques594&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000&title_color=B00020&text_color=E6E6E6" alt="Top Languages" />
 
 </div>
 
