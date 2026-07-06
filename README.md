@@ -1,115 +1,145 @@
 <div align="center">
 
-# Lucas Marques
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0000,50:4b0000,100:000000&height=180&section=header&text=Lucas%20Marques&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Curitiba,%20PR&descAlignY=58&descSize=16" />
 
-**Desenvolvedor Full-Stack | Curitiba, PR**
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=B00020&center=true&vCenter=true&width=700&lines=Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+SaaS+Systems;Containerized+Deployments+%E2%80%A2+Scalable+Backends;Embedded+Systems+%E2%80%A2+ECU+Sensors+%E2%80%A2+MISRA-C" />
 
 </div>
 
 ---
 
-### Sobre mim
+## 🩸 Sobre mim
 
-Desenvolvedor Full-Stack com experiência em aplicações web modernas, sistemas SaaS e soluções de infraestrutura. Também atuo com sistemas embarcados para engenharia automotiva, incluindo monitoramento de sensores ECU, processamento de sinais digitais e desenvolvimento seguindo padrões MISRA-C.
+Desenvolvedor **Full-Stack** com experiência em aplicações web modernas, sistemas **SaaS** e soluções de infraestrutura.
 
-Focado em arquitetura limpa, Domain-Driven Design e soluções escaláveis com deploy containerizado.
+Também atuo com **sistemas embarcados para engenharia automotiva**, incluindo monitoramento de sensores **ECU**, processamento de sinais digitais e desenvolvimento seguindo padrões **MISRA-C**.
+
+Focado em **arquitetura limpa**, **Domain-Driven Design** e soluções escaláveis com **deploy containerizado**.
+
+> “Entre código, infraestrutura e sinais automotivos, eu construo sistemas que não morrem fácil.”
 
 ---
 
-### Stack Principal
+## ⚔️ Stack Principal
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
   </a>
   <a href="https://bun.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+    <img src="https://img.shields.io/badge/Bun-0B0000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   </a>
   <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/React-120000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   </a>
   <a href="https://elysiajs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Elysia-9B6DFF?style=for-the-badge&logo=elysia&logoColor=white" alt="Elysia">
+    <img src="https://img.shields.io/badge/Elysia-240000?style=for-the-badge&logo=elysia&logoColor=B00020" alt="Elysia">
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-1A0000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
   </a>
 </p>
 
-### Banco de Dados & ORM
+---
+
+## 🧛 Banco de Dados & ORM
 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
   </a>
   <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Redis-200000?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis">
   </a>
   <a href="https://orm.drizzle.team/" target="_blank">
-    <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle">
+    <img src="https://img.shields.io/badge/Drizzle-101010?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle">
   </a>
 </p>
 
-### Infraestrutura & DevOps
+---
+
+## 🕯️ Infraestrutura & DevOps
 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
   </a>
   <a href="https://nginx.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/Nginx-100000?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx">
   </a>
   <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
+    <img src="https://img.shields.io/badge/Cloudflare-1A0000?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
   </a>
   <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+    <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF" alt="GitHub Actions">
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
   </a>
 </p>
 
-### Sistemas Embarcados & Automotivo
+---
+
+## 🦇 Sistemas Embarcados & Automotivo
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00599C" alt="C">
   </a>
   <a href="https://en.wikipedia.org/wiki/MISRA_C" target="_blank">
     <img src="https://img.shields.io/badge/MISRA--C-000000?style=for-the-badge&logo=iso&logoColor=white" alt="MISRA-C">
   </a>
   <a href="https://en.wikipedia.org/wiki/Engine_control_unit" target="_blank">
-    <img src="https://img.shields.io/badge/ECU-FF6B00?style=for-the-badge&logo=bosch&logoColor=white" alt="ECU">
+    <img src="https://img.shields.io/badge/ECU-210000?style=for-the-badge&logo=bosch&logoColor=FF6B00" alt="ECU">
   </a>
   <a href="https://en.wikipedia.org/wiki/Digital_signal_processing" target="_blank">
-    <img src="https://img.shields.io/badge/DSP-4B0082?style=for-the-badge&logo=soundcharts&logoColor=white" alt="DSP">
+    <img src="https://img.shields.io/badge/DSP-120018?style=for-the-badge&logo=soundcharts&logoColor=9B5DE5" alt="DSP">
   </a>
 </p>
 
 ---
 
-### GitHub Stats
+## 🩸 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=lucasmarques594&theme=dracula&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=00000000&hide_longest_streak=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=lucasmarques594&show_icons=true&theme=shadow_red&hide_border=true&bg_color=000000&title_color=B00020&icon_color=B00020&text_color=E6E6E6" alt="GitHub Stats" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=lucasmarques594&theme=dark-aura&hide_border=true&border_radius=2&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmarques594&layout=compact&theme=shadow_red&hide_border=true&bg_color=000000&title_color=B00020&text_color=E6E6E6" alt="Top Languages" />
+
 </div>
 
 ---
 
-### Contato
+## ⚰️ Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/lucasmarques594" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0077B5">
   </a>
   <a href="mailto:lucasmarques594@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-1A0000?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0000,100:0b0000&height=120&section=footer" />
+
+</div>
