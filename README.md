@@ -1,137 +1,113 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/lucas-banner.svg" alt="Lucas Marques — Full-Stack, Infraestrutura e Sistemas Embarcados" width="100%">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0000,50:4b0000,100:000000&height=180&section=header&text=Lucas%20Marques&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Curitiba,%20PR&descAlignY=58&descSize=16" />
+<h1 align="center">Lucas Marques</h1>
 
-<br />
+<p align="center">
+  Desenvolvedor Full-Stack · Infraestrutura · Sistemas Embarcados
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=B00020&center=true&vCenter=true&width=700&lines=Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+SaaS+Systems;Containerized+Deployments+%E2%80%A2+Scalable+Backends;Embedded+Systems+%E2%80%A2+ECU+Sensors+%E2%80%A2+MISRA-C" />
-
-</div>
-
----
-
-## 🩸 Sobre mim
-
-Desenvolvedor **Full-Stack** com experiência em aplicações web modernas, sistemas **SaaS** e soluções de infraestrutura.
-
-Também atuo com **sistemas embarcados para engenharia automotiva**, incluindo monitoramento de sensores **ECU**, processamento de sinais digitais e desenvolvimento seguindo padrões **MISRA-C**.
-
-Focado em **arquitetura limpa**, **Domain-Driven Design** e soluções escaláveis com **deploy containerizado**.
-
-> “Entre código, infraestrutura e sinais automotivos, eu construo sistemas que não morrem fácil.”
-
----
-
-## ⚔️ Stack Principal
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<p align="center">
+  <a href="https://github.com/lucasmarques594">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://bun.sh/" target="_blank">
-    <img src="https://img.shields.io/badge/Bun-0B0000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun">
+  <a href="https://www.linkedin.com/in/lucasmarques594">
+    <img src="https://img.shields.io/badge/LinkedIn-720B1C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-120000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  </a>
-  <a href="https://elysiajs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Elysia-240000?style=for-the-badge&logo=elysia&logoColor=B00020" alt="Elysia">
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-1A0000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
+  <a href="https://www.instagram.com/shinemotx">
+    <img src="https://img.shields.io/badge/Instagram-3A0710?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
 
 ---
 
-## 🧛 Banco de Dados & ORM
+## Sobre mim
 
-<p align="left">
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-200000?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis">
-  </a>
-  <a href="https://orm.drizzle.team/" target="_blank">
-    <img src="https://img.shields.io/badge/Drizzle-101010?style=for-the-badge&logo=drizzle&logoColor=C5F74F" alt="Drizzle">
-  </a>
+Desenvolvedor Full-Stack de Curitiba, focado na criação de aplicações web modernas, sistemas SaaS, APIs escaláveis e infraestrutura para produção.
+
+Também estudo sistemas embarcados aplicados à engenharia automotiva, incluindo telemetria de ECU, protocolos OBD-II e CAN, processamento de sinais e desenvolvimento em C.
+
+> Entre código, infraestrutura e sinais automotivos, construo sistemas feitos para sobreviver à noite.
+
+---
+
+## Arsenal técnico
+
+### Aplicações e APIs
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=E5092F" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=E5092F" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=E5092F" alt="Bun">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=E5092F" alt="Node.js">
+  <img src="https://img.shields.io/badge/Elysia-111111?style=flat-square&logoColor=E5092F" alt="Elysia">
+  <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=fastapi&logoColor=E5092F" alt="REST APIs">
+</p>
+
+### Interface
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=E5092F" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=E5092F" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=E5092F" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-111111?style=flat-square&logo=shadcnui&logoColor=E5092F" alt="shadcn/ui">
+</p>
+
+### Dados e infraestrutura
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=E5092F" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=E5092F" alt="Redis">
+  <img src="https://img.shields.io/badge/Drizzle_ORM-111111?style=flat-square&logo=drizzle&logoColor=E5092F" alt="Drizzle ORM">
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=E5092F" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=E5092F" alt="Nginx">
+  <img src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=E5092F" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=E5092F" alt="Linux">
+</p>
+
+### Sistemas embarcados
+
+<p>
+  <img src="https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=E5092F" alt="C">
+  <img src="https://img.shields.io/badge/OBD--II-111111?style=flat-square&logoColor=E5092F" alt="OBD-II">
+  <img src="https://img.shields.io/badge/CAN_Bus-111111?style=flat-square&logoColor=E5092F" alt="CAN Bus">
+  <img src="https://img.shields.io/badge/ECU_Telemetry-111111?style=flat-square&logoColor=E5092F" alt="ECU Telemetry">
+  <img src="https://img.shields.io/badge/MISRA--C-111111?style=flat-square&logoColor=E5092F" alt="MISRA-C">
 </p>
 
 ---
 
-## 🕯️ Infraestrutura & DevOps
+## Projetos em destaque
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-080808?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-  </a>
-  <a href="https://nginx.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nginx-100000?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx">
-  </a>
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Cloudflare-1A0000?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
-  </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF" alt="GitHub Actions">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
-  </a>
+### [FoodVision](https://github.com/lucasmarques594/foodVision)
+
+Aplicação Full-Stack com IA multimodal que transforma imagens de ingredientes em receitas completas.
+
+### [AutoCatalog](https://github.com/lucasmarques594/autocatalog)
+
+Plataforma para compra e venda de veículos, com filtros detalhados, anúncios e perfis de lojas.
+
+### [ECU Modular](https://github.com/lucasmarques594/ecu_modular)
+
+Sistema embarcado modular para monitoramento e processamento de sensores automotivos em tempo real.
+
+### [OBD-II](https://github.com/lucasmarques594/obd2)
+
+Leitor de dados de diagnóstico automotivo para interfaces compatíveis com ELM327.
+
+---
+
+## Foco atual
+
+- Sistemas SaaS e plataformas internas para negócios
+- Produtos com inteligência artificial e automação de processos
+- Arquitetura limpa, DDD e APIs escaláveis
+- Deploy, observabilidade e infraestrutura confiável
+- Telemetria automotiva e sistemas embarcados
+
+---
+
+<p align="center">
+  <sub>Blood fades. Code remains.</sub>
 </p>
-
----
-
-## 🦇 Sistemas Embarcados & Automotivo
-
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/C-050505?style=for-the-badge&logo=c&logoColor=00599C" alt="C">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/MISRA_C" target="_blank">
-    <img src="https://img.shields.io/badge/MISRA--C-000000?style=for-the-badge&logo=iso&logoColor=white" alt="MISRA-C">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Engine_control_unit" target="_blank">
-    <img src="https://img.shields.io/badge/ECU-210000?style=for-the-badge&logo=bosch&logoColor=FF6B00" alt="ECU">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Digital_signal_processing" target="_blank">
-    <img src="https://img.shields.io/badge/DSP-120018?style=for-the-badge&logo=soundcharts&logoColor=9B5DE5" alt="DSP">
-  </a>
-</p>
-
----
-
-## 🩸 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucasmarques594&theme=dark-aura&hide_border=true&border_radius=2&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-
-</div>
-
----
-
-## ⚰️ Contato
-
-<p align="left">
-  <a href="https://linkedin.com/in/lucasmarques594" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0B0B?style=for-the-badge&logo=linkedin&logoColor=0077B5">
-  </a>
-  <a href="mailto:lucasmarques594@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1A0000?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4b0000,100:0b0000&height=120&section=footer" />
-
-</div>
