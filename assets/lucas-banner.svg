@@ -1,0 +1,71 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050505"/>
+      <stop offset="0.48" stop-color="#0B0203"/>
+      <stop offset="1" stop-color="#160104"/>
+    </linearGradient>
+    <radialGradient id="moon" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1060 180) rotate(90) scale(170)">
+      <stop stop-color="#DC143C" stop-opacity="0.50"/>
+      <stop offset="0.55" stop-color="#8B0000" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#330006" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="redLine" x1="100" y1="0" x2="970" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#420008" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#8B0000"/>
+      <stop offset="0.7" stop-color="#DC143C"/>
+      <stop offset="1" stop-color="#DC143C" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8B0000" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#moon)"/>
+
+  <path d="M0 55H1280M0 305H1280" stroke="#7A0010" stroke-opacity="0.38"/>
+  <path d="M78 285H994" stroke="url(#redLine)" stroke-width="2"/>
+  <path d="M78 292H860" stroke="#DC143C" stroke-opacity="0.18"/>
+
+  <g opacity="0.30">
+    <path d="M42 80H205L228 102H355" stroke="#DC143C"/>
+    <circle cx="42" cy="80" r="4" fill="#DC143C"/>
+    <circle cx="355" cy="102" r="4" fill="#DC143C"/>
+    <path d="M864 76H1004L1026 98H1238" stroke="#8B0000"/>
+    <circle cx="864" cy="76" r="4" fill="#8B0000"/>
+    <circle cx="1238" cy="98" r="4" fill="#8B0000"/>
+  </g>
+
+  <circle cx="1082" cy="180" r="117" stroke="#5B000A" stroke-width="2"/>
+  <circle cx="1082" cy="180" r="92" stroke="#DC143C" stroke-opacity="0.28"/>
+  <circle cx="1082" cy="180" r="68" fill="#140104" stroke="#8B0000" stroke-width="2"/>
+  <circle cx="1082" cy="180" r="44" fill="#DC143C" fill-opacity="0.10" filter="url(#soft)"/>
+
+  <g transform="translate(1082 180)" filter="url(#glow)">
+    <path d="M-8 -72H8V-20H38V-4H8V74H-8V-4H-38V-20H-8V-72Z" fill="#A50018"/>
+    <path d="M0 -92L14 -72H-14L0 -92ZM0 94L-12 74H12L0 94Z" fill="#DC143C"/>
+  </g>
+
+  <path d="M976 116C1005 96 1026 85 1052 80C1037 98 1029 118 1027 140C1009 132 992 124 976 116Z" fill="#050505"/>
+  <path d="M1188 116C1159 96 1138 85 1112 80C1127 98 1135 118 1137 140C1155 132 1172 124 1188 116Z" fill="#050505"/>
+
+  <text x="78" y="122" fill="#7C0A19" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="4">ROOT@NIGHT:~/PROFILE</text>
+  <text x="74" y="194" fill="#F0E7E7" font-size="62" font-weight="700" font-family="Georgia, 'Times New Roman', serif" letter-spacing="3">LUCAS MARQUES</text>
+  <text x="79" y="236" fill="#C30E2E" font-size="18" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="3">FULL-STACK // INFRASTRUCTURE // EMBEDDED SYSTEMS</text>
+  <text x="79" y="272" fill="#8E7A7D" font-size="15" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt; systems built to survive the night_</text>
+
+  <rect x="1" y="1" width="1278" height="358" rx="17" stroke="#5A000A" stroke-width="2"/>
+  <path d="M18 18H118M1162 18H1262M18 342H118M1162 342H1262" stroke="#DC143C" stroke-opacity="0.65" stroke-width="2"/>
+</svg>
